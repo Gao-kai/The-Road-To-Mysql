@@ -1,0 +1,17 @@
+{
+  "codingcopilot.enableCompletionLanguage": {
+    "sql": false
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": true,
+      "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.inlineSuggest.enabled": false
+  }
+}
