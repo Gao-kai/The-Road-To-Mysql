@@ -25,3 +25,5 @@ WHERE
 
 -- ========== 删除数据库 ==========
 DROP DATABASE IF EXISTS booker_data_service;
+
+SHOW VARIABLES like "character_%";

@@ -3,7 +3,7 @@
     "sql": false
   },
   "[sql]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "cweijan.vscode-mysql-client2",
     "editor.formatOnSave": true,
     "editor.quickSuggestions": {
       "other": false,
