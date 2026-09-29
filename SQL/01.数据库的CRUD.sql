@@ -27,3 +27,5 @@ WHERE
 DROP DATABASE IF EXISTS booker_data_service;
 
 SHOW VARIABLES like "character_%";
+
+SHOW DATABASES;

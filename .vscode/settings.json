@@ -14,7 +14,26 @@
     "editor.wordBasedSuggestions": "off",
     "editor.inlineSuggest.enabled": false
   },
+  "files.associations": {
+    "*.sql": "mysql"
+  },
   "cSpell.words": [
     "atguigudb"
+  ],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "MYSQL LESSON",
+      "username": "root",
+      "database": "atguigudb"
+    }
   ]
 }
